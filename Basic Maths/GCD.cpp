@@ -14,6 +14,6 @@ int main() {
     cin >> a >> b ;
     gcd(a,b); 
     cout << gcd(a,b) ;
-    
+        
     return 0 ;
 }
