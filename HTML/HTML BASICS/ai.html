@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Basic Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+        }
+
+        #clock {
+            font-size: 20px;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        nav {
+            margin: 20px;
+        }
+
+        nav a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            text-decoration: none;
+            color: white;
+            background-color: #007BFF;
+            border-radius: 5px;
+        }
+
+        nav a:hover {
+            background-color: #0056b3;
+        }
+
+        footer {
+            margin-top: 40px;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>This is a simple HTML page with useful links</p>
+        <div id="clock"></div>
+    </header>
+
+    <nav>
+        <a href="https://www.google.com" target="_blank">Google</a>
+        <a href="https://www.facebook.com" target="_blank">Facebook</a>
+        <a href="https://www.youtube.com" target="_blank">YouTube</a>
+        <a href="https://www.github.com" target="_blank">GitHub</a>
+    </nav>
+
+    <footer>
+        <p>© 2026 My Basic Website</p>
+    </footer>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+            const time = now.toLocaleTimeString();
+            document.getElementById("clock").textContent = "Current Time: " + time;
+        }
+
+        updateClock(); // Run immediately
+        setInterval(updateClock, 1000); // Update every second
+    </script>
+
+</body>
+</html>
