@@ -1,4 +1,4 @@
-//Optimal solution .
+//Optimal solution (Kadane's algorithm) .
 #include <bits/stdc++.h>
 using namespace std ;
     int sums(vector<int>&nums){
