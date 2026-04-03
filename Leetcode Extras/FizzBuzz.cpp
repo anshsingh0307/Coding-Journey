@@ -11,7 +11,7 @@ using namespace std ;
             } else if (i % 5 == 0) {
                 answer.push_back("Buzz");
             } else {
-                answer.push_back(to_string(i));  // convert the number to string
+                answer.push_back(to_string(i));  
             }
         }
         return answer; 
