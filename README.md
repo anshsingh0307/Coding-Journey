@@ -99,11 +99,13 @@ Feel free to follow my journey and grow together!
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -154,4 +157,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
