@@ -128,6 +128,7 @@ Feel free to follow my journey and grow together!
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -166,6 +167,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
 | ------- |
