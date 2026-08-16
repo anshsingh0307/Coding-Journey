@@ -105,6 +105,7 @@ Feel free to follow my journey and grow together!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -124,6 +125,7 @@ Feel free to follow my journey and grow together!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/anshsingh0307/Coding-Journey/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
@@ -154,6 +156,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,4 +216,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
