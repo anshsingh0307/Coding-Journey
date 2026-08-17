@@ -144,6 +144,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anshsingh0307/Coding-Journey/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
@@ -161,6 +162,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -215,9 +217,14 @@ Feel free to follow my journey and grow together!
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
