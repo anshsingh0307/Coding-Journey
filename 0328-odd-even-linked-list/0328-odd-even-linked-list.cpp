@@ -16,13 +16,13 @@ public:
             return head;
         ListNode* odd = head;
         ListNode* even = head->next;
-        ListNode* evenHead = even;
+        ListNode* evenHead = head->next;
 
         while (even!=NULL&&even->next!=NULL) { 
             odd->next=even->next;
-            odd=odd->next;
+            odd = odd->next ;
 
-            even->next = odd->next;
+            even->next = even->next->next;
             even = even->next;
         }
         odd->next = evenHead;
