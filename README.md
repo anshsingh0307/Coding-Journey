@@ -112,6 +112,7 @@ Feel free to follow my journey and grow together!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -163,6 +164,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -219,6 +221,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
@@ -229,4 +232,12 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
