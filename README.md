@@ -105,6 +105,7 @@ Feel free to follow my journey and grow together!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
@@ -221,6 +222,7 @@ Feel free to follow my journey and grow together!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0328-odd-even-linked-list) |
@@ -241,4 +243,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
