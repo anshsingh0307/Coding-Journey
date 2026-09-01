@@ -106,6 +106,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -231,6 +232,7 @@ Feel free to follow my journey and grow together!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
