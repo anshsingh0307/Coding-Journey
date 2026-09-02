@@ -235,6 +235,7 @@ Feel free to follow my journey and grow together!
 | [0029-divide-two-integers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
