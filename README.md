@@ -98,6 +98,7 @@ Feel free to follow my journey and grow together!
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/anshsingh0307/Coding-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
@@ -235,6 +236,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0029-divide-two-integers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/anshsingh0307/Coding-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -255,4 +257,8 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anshsingh0307/Coding-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
