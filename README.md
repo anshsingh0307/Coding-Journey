@@ -104,6 +104,7 @@ Feel free to follow my journey and grow together!
 | [0260-single-number-iii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,6 +173,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
