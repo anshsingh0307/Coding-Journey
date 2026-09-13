@@ -1,0 +1,70 @@
+/* Page styling */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #6dd5ed, #2193b0);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Heading */
+h1{
+    margin-top: 40px;
+    color: white;
+}
+
+/* Form container */
+form{
+    background: white;
+    padding: 25px 30px;
+    border-radius: 10px;
+    width: 320px;
+    margin-top: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Spacing for inputs */
+form div{
+    margin-bottom: 15px;
+}
+
+/* Labels */
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Inputs and textarea */
+input, textarea{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Focus effect */
+input:focus, textarea:focus{
+    border-color: #2193b0;
+    outline: none;
+}
+
+/* Button styling */
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #2193b0;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Button hover */
+button:hover{
+    background-color: #176f86;
+}

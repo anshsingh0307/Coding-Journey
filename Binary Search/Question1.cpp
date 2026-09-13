@@ -1,0 +1,20 @@
+//Binary Search(Leetcode----->>>>>704)
+#include<bits/stdc++.h>
+using namespace std ;
+    int search(vector<int>& nums, int key) {
+        int low=0 ;
+        int high=nums.size()-1 ;
+        while(low<=high){
+            int mid = (low+high)/2 ;
+
+            if(key==nums[mid])
+            return mid ;
+
+            else if(key>nums[mid])
+            low=mid+1 ;
+
+            else
+            high=mid-1 ;
+        }
+        return -1 ;
+    }
