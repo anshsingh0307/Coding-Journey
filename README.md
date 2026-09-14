@@ -99,6 +99,7 @@ Feel free to follow my journey and grow together!
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/anshsingh0307/Coding-Journey/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshsingh0307/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0260-single-number-iii) |
@@ -195,6 +196,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshsingh0307/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
@@ -206,6 +208,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshsingh0307/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
@@ -313,4 +316,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshsingh0307/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
