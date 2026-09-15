@@ -123,6 +123,7 @@ Feel free to follow my journey and grow together!
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -321,6 +322,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
+| [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
