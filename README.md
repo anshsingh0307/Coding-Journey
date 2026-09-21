@@ -112,6 +112,7 @@ Feel free to follow my journey and grow together!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ Feel free to follow my journey and grow together!
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
