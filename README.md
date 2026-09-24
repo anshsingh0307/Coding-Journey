@@ -114,6 +114,7 @@ Feel free to follow my journey and grow together!
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
+| [4054-count-shadow-pairs-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/4054-count-shadow-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Feel free to follow my journey and grow together!
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
+| [4054-count-shadow-pairs-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/4054-count-shadow-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Feel free to follow my journey and grow together!
 | [0901-online-stock-span](https://github.com/anshsingh0307/Coding-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
+| [4054-count-shadow-pairs-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/4054-count-shadow-pairs-i) |
 ## Game Theory
 |  |
 | ------- |
