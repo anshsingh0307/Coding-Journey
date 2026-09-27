@@ -125,6 +125,7 @@ Feel free to follow my journey and grow together!
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
@@ -199,6 +200,7 @@ Feel free to follow my journey and grow together!
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -342,4 +345,12 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/anshsingh0307/Coding-Journey/tree/master/0901-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
