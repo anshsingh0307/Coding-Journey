@@ -173,6 +173,7 @@ Feel free to follow my journey and grow together!
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anshsingh0307/Coding-Journey/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -277,6 +278,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -346,6 +348,7 @@ Feel free to follow my journey and grow together!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/anshsingh0307/Coding-Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -363,4 +366,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
