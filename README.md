@@ -176,6 +176,7 @@ Feel free to follow my journey and grow together!
 | [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -281,6 +282,7 @@ Feel free to follow my journey and grow together!
 | [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -349,6 +351,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/anshsingh0307/Coding-Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -370,4 +373,5 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
