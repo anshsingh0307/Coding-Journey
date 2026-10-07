@@ -196,6 +196,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -214,6 +215,7 @@ Feel free to follow my journey and grow together!
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshsingh0307/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anshsingh0307/Coding-Journey/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
@@ -279,6 +281,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0328-odd-even-linked-list) |
@@ -312,6 +315,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
