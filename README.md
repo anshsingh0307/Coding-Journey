@@ -128,6 +128,7 @@ Feel free to follow my journey and grow together!
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
@@ -209,6 +210,7 @@ Feel free to follow my journey and grow together!
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -378,4 +380,8 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0146-lru-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
