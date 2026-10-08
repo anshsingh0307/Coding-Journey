@@ -111,6 +111,7 @@ Feel free to follow my journey and grow together!
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -132,6 +133,7 @@ Feel free to follow my journey and grow together!
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/1837-sum-of-digits-in-base-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/anshsingh0307/Coding-Journey/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -278,6 +280,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
@@ -301,6 +304,7 @@ Feel free to follow my journey and grow together!
 | [0260-single-number-iii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -324,6 +328,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshsingh0307/Coding-Journey/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -385,4 +390,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
