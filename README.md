@@ -105,6 +105,7 @@ Feel free to follow my journey and grow together!
 | [0204-count-primes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
@@ -144,6 +145,7 @@ Feel free to follow my journey and grow together!
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -203,6 +205,7 @@ Feel free to follow my journey and grow together!
 | [0143-reorder-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -354,6 +357,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 ## Range Minimum/Maximum Query
 |  |
@@ -394,4 +398,8 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
