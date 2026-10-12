@@ -145,6 +145,7 @@ Feel free to follow my journey and grow together!
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anshsingh0307/Coding-Journey/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/anshsingh0307/Coding-Journey/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Feel free to follow my journey and grow together!
 | [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/anshsingh0307/Coding-Journey/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
