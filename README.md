@@ -142,6 +142,7 @@ Feel free to follow my journey and grow together!
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshsingh0307/Coding-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/anshsingh0307/Coding-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
