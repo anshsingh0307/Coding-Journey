@@ -139,6 +139,7 @@ Feel free to follow my journey and grow together!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/anshsingh0307/Coding-Journey/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshsingh0307/Coding-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
