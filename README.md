@@ -96,6 +96,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -219,6 +220,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/anshsingh0307/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
@@ -365,6 +367,7 @@ Feel free to follow my journey and grow together!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
