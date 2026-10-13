@@ -115,6 +115,7 @@ Feel free to follow my journey and grow together!
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/anshsingh0307/Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
@@ -137,6 +138,7 @@ Feel free to follow my journey and grow together!
 | [1137-n-th-tribonacci-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/anshsingh0307/Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/anshsingh0307/Coding-Journey/tree/master/2413-smallest-even-multiple) |
@@ -179,6 +181,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/anshsingh0307/Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -191,6 +194,7 @@ Feel free to follow my journey and grow together!
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/anshsingh0307/Coding-Journey/tree/master/0460-lfu-cache) |
+| [1512-number-of-good-pairs](https://github.com/anshsingh0307/Coding-Journey/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/anshsingh0307/Coding-Journey/tree/master/3945-digit-frequency-score) |
