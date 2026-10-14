@@ -107,6 +107,7 @@ Feel free to follow my journey and grow together!
 | [0204-count-primes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +155,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0148-sort-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -228,6 +230,7 @@ Feel free to follow my journey and grow together!
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/anshsingh0307/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
@@ -374,6 +377,7 @@ Feel free to follow my journey and grow together!
 | [0045-jump-game-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anshsingh0307/Coding-Journey/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
