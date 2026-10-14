@@ -121,6 +121,7 @@ Feel free to follow my journey and grow together!
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshsingh0307/Coding-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshsingh0307/Coding-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
 | [4054-count-shadow-pairs-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/4054-count-shadow-pairs-i) |
@@ -146,6 +147,7 @@ Feel free to follow my journey and grow together!
 | [2652-sum-multiples](https://github.com/anshsingh0307/Coding-Journey/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshsingh0307/Coding-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshsingh0307/Coding-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshsingh0307/Coding-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anshsingh0307/Coding-Journey/tree/master/3783-mirror-distance-of-an-integer) |
