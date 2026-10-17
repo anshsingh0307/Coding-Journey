@@ -97,6 +97,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshsingh0307/Coding-Journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/anshsingh0307/Coding-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/anshsingh0307/Coding-Journey/tree/master/0057-insert-interval) |
@@ -132,6 +133,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/anshsingh0307/Coding-Journey/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anshsingh0307/Coding-Journey/tree/master/0231-power-of-two) |
@@ -208,6 +210,7 @@ Feel free to follow my journey and grow together!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anshsingh0307/Coding-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/anshsingh0307/Coding-Journey/tree/master/0085-maximal-rectangle) |
