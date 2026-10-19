@@ -106,6 +106,7 @@ Feel free to follow my journey and grow together!
 | [0078-subsets](https://github.com/anshsingh0307/Coding-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshsingh0307/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anshsingh0307/Coding-Journey/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/anshsingh0307/Coding-Journey/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/anshsingh0307/Coding-Journey/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0260-single-number-iii) |
@@ -391,6 +392,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0045-jump-game-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/anshsingh0307/Coding-Journey/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
