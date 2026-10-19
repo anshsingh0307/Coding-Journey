@@ -188,6 +188,7 @@ Feel free to follow my journey and grow together!
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/anshsingh0307/Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -246,6 +247,7 @@ Feel free to follow my journey and grow together!
 | [0085-maximal-rectangle](https://github.com/anshsingh0307/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/anshsingh0307/Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/anshsingh0307/Coding-Journey/tree/master/1025-divisor-game) |
@@ -259,6 +261,7 @@ Feel free to follow my journey and grow together!
 | [0143-reorder-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/anshsingh0307/Coding-Journey/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/anshsingh0307/Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/anshsingh0307/Coding-Journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshsingh0307/Coding-Journey/tree/master/0907-sum-of-subarray-minimums) |
@@ -290,6 +293,7 @@ Feel free to follow my journey and grow together!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/anshsingh0307/Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
@@ -396,6 +400,7 @@ Feel free to follow my journey and grow together!
 | [0402-remove-k-digits](https://github.com/anshsingh0307/Coding-Journey/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anshsingh0307/Coding-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/anshsingh0307/Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anshsingh0307/Coding-Journey/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
