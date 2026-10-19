@@ -123,6 +123,7 @@ Feel free to follow my journey and grow together!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anshsingh0307/Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshsingh0307/Coding-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshsingh0307/Coding-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -169,6 +170,7 @@ Feel free to follow my journey and grow together!
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshsingh0307/Coding-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -176,6 +178,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshsingh0307/Coding-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -232,6 +235,7 @@ Feel free to follow my journey and grow together!
 | [0392-is-subsequence](https://github.com/anshsingh0307/Coding-Journey/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshsingh0307/Coding-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -381,6 +385,7 @@ Feel free to follow my journey and grow together!
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -391,6 +396,7 @@ Feel free to follow my journey and grow together!
 | [0455-assign-cookies](https://github.com/anshsingh0307/Coding-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anshsingh0307/Coding-Journey/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/anshsingh0307/Coding-Journey/tree/master/1323-maximum-69-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
