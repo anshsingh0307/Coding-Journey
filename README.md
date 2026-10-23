@@ -126,6 +126,7 @@ Feel free to follow my journey and grow together!
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/anshsingh0307/Coding-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/anshsingh0307/Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshsingh0307/Coding-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshsingh0307/Coding-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -397,6 +398,7 @@ Feel free to follow my journey and grow together!
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2574-left-and-right-sum-differences](https://github.com/anshsingh0307/Coding-Journey/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
