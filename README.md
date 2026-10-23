@@ -130,6 +130,7 @@ Feel free to follow my journey and grow together!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshsingh0307/Coding-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/anshsingh0307/Coding-Journey/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/anshsingh0307/Coding-Journey/tree/master/3925-concatenate-array-with-reverse) |
 | [4054-count-shadow-pairs-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/4054-count-shadow-pairs-i) |
 ## Math
 |  |
@@ -228,6 +229,7 @@ Feel free to follow my journey and grow together!
 | [0054-spiral-matrix](https://github.com/anshsingh0307/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anshsingh0307/Coding-Journey/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/anshsingh0307/Coding-Journey/tree/master/0735-asteroid-collision) |
+| [3925-concatenate-array-with-reverse](https://github.com/anshsingh0307/Coding-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
