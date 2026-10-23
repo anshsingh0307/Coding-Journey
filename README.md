@@ -126,6 +126,7 @@ Feel free to follow my journey and grow together!
 | [2104-sum-of-subarray-ranges](https://github.com/anshsingh0307/Coding-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/anshsingh0307/Coding-Journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshsingh0307/Coding-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2942-find-words-containing-character](https://github.com/anshsingh0307/Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anshsingh0307/Coding-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshsingh0307/Coding-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anshsingh0307/Coding-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -194,6 +195,7 @@ Feel free to follow my journey and grow together!
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2942-find-words-containing-character](https://github.com/anshsingh0307/Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
