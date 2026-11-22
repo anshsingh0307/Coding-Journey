@@ -198,6 +198,7 @@ Feel free to follow my journey and grow together!
 | [1021-remove-outermost-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshsingh0307/Coding-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshsingh0307/Coding-Journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anshsingh0307/Coding-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/anshsingh0307/Coding-Journey/tree/master/2942-find-words-containing-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshsingh0307/Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
